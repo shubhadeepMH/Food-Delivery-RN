@@ -1,0 +1,230 @@
+[
+  {
+    "name": "Spice Delight",
+    "image": "https://10619-2.s.cdn12.com/rests/original/305_505428966.jpg",
+    "rating": 4.5,
+    "address": "1234 Main Street, Mumbai, India",
+    "dishes": [
+      {
+        "dish_name": "Chicken Tikka Masala",
+        "rating": 4.8,
+        "image": "chicken_tikka_masala.jpg",
+        "price": 12.99
+      },
+      {
+        "dish_name": "Vegetable Biryani",
+        "rating": 4.6,
+        "image": "vegetable_biryani.jpg",
+        "price": 10.99
+      },
+      {
+        "dish_name": "Butter Naan",
+        "rating": 4.4,
+        "image": "butter_naan.jpg",
+        "price": 2.99
+      },
+      {
+        "dish_name": "Paneer Tikka",
+        "rating": 4.7,
+        "image": "paneer_tikka.jpg",
+        "price": 11.99
+      },
+      {
+        "dish_name": "Mango Lassi",
+        "rating": 4.3,
+        "image": "mango_lassi.jpg",
+        "price": 3.99
+      }
+    ]
+  },
+  {
+    "name": "Spicy Palace",
+    "image": "https://b.zmtcdn.com/data/pictures/6/18719016/45e486a2917d7173f16cc8c49d7608a1.jpg",
+    "rating": 4.3,
+    "address": "5678 Park Avenue, Delhi, India",
+    "dishes": [
+      {
+        "dish_name": "Chole Bhature",
+        "rating": 4.7,
+        "image": "chole_bhature.jpg",
+        "price": 9.99
+      },
+      {
+        "dish_name": "Tandoori Chicken",
+        "rating": 4.5,
+        "image": "tandoori_chicken.jpg",
+        "price": 13.99
+      },
+      {
+        "dish_name": "Aloo Paratha",
+        "rating": 4.2,
+        "image": "aloo_paratha.jpg",
+        "price": 7.99
+      },
+      {
+        "dish_name": "Palak Paneer",
+        "rating": 4.6,
+        "image": "palak_paneer.jpg",
+        "price": 10.99
+      },
+      {
+        "dish_name": "Mango Lassi",
+        "rating": 4.3,
+        "image": "mango_lassi.jpg",
+        "price": 3.99
+      }
+    ]
+  },
+  {
+    "name": "Taste of India",
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Fp%2FTaste-of-India-100079342819433%2F&psig=AOvVaw0hKlZQkdefQRR1nLV07UiB&ust=1694008857214000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIjo-_bQk4EDFQAAAAAdAAAAABAR",
+    "rating": 4.6,
+    "address": "4321 Lake Road, Bangalore, India",
+    "dishes": [
+      {
+        "dish_name": "Dosa",
+        "rating": 4.7,
+        "image": "dosa.jpg",
+        "price": 8.99
+      },
+      {
+        "dish_name": "Chicken Curry",
+        "rating": 4.4,
+        "image": "chicken_curry.jpg",
+        "price": 12.99
+      },
+      {
+        "dish_name": "Garlic Naan",
+        "rating": 4.5,
+        "image": "garlic_naan.jpg",
+        "price": 2.99
+      },
+      {
+        "dish_name": "Mutton Biryani",
+        "rating": 4.8,
+        "image": "mutton_biryani.jpg",
+        "price": 14.99
+      },
+      {
+        "dish_name": "Mango Lassi",
+        "rating": 4.3,
+        "image": "mango_lassi.jpg",
+        "price": 3.99
+      }
+    ]
+  },
+  {
+    "name": "Curry House",
+    "image": "curry_house.jpg",
+    "rating": 4.4,
+    "address": "789 Elm Street, Chennai, India",
+    "dishes": [
+      {
+        "dish_name": "Masala Dosa",
+        "rating": 4.6,
+        "image": "masala_dosa.jpg",
+        "price": 9.99
+      },
+      {
+        "dish_name": "Fish Curry",
+        "rating": 4.3,
+        "image": "fish_curry.jpg",
+        "price": 13.99
+      },
+      {
+        "dish_name": "Roti",
+        "rating": 4.2,
+        "image": "roti.jpg",
+        "price": 1.99
+      },
+      {
+        "dish_name": "Paneer Butter Masala",
+        "rating": 4.7,
+        "image": "paneer_butter_masala.jpg",
+        "price": 11.99
+      },
+      {
+        "dish_name": "Mango Lassi",
+        "rating": 4.3,
+        "image": "mango_lassi.jpg",
+        "price": 3.99
+      }
+    ]
+  },
+  {
+    "name": "Flavors of India",
+    "image": "flavors_of_india.jpg",
+    "rating": 4.7,
+    "address": "2345 Oak Lane, Kolkata, India",
+    "dishes": [
+      {
+        "dish_name": "Rogan Josh",
+        "rating": 4.8,
+        "image": "rogan_josh.jpg",
+        "price": 14.99
+      },
+      {
+        "dish_name": "Aloo Gobi",
+        "rating": 4.5,
+        "image": "aloo_gobi.jpg",
+        "price": 10.99
+      },
+      {
+        "dish_name": "Garlic Naan",
+        "rating": 4.5,
+        "image": "garlic_naan.jpg",
+        "price": 2.99
+      },
+      {
+        "dish_name": "Pani Puri",
+        "rating": 4.6,
+        "image": "pani_puri.jpg",
+        "price": 6.99
+      },
+      {
+        "dish_name": "Mango Lassi",
+        "rating": 4.3,
+        "image": "mango_lassi.jpg",
+        "price": 3.99
+      }
+    ]
+  },
+  {
+    "name": "Royal Tandoor",
+    "image": "royal_tandoor.jpg",
+    "rating": 4.6,
+    "address": "3456 Maple Avenue, Hyderabad, India",
+    "dishes": [
+      {
+        "dish_name": "Tandoori Roti",
+        "rating": 4.4,
+        "image": "tandoori_roti.jpg",
+        "price": 2.99
+      },
+      {
+        "dish_name": "Chicken Korma",
+        "rating": 4.7,
+        "image": "chicken_korma.jpg",
+        "price": 13.99
+      },
+      {
+        "dish_name": "Jeera Rice",
+        "rating": 4.3,
+        "image": "jeera_rice.jpg",
+        "price": 5.99
+      },
+      {
+        "dish_name": "Gulab Jamun",
+        "rating": 4.8,
+        "image": "gulab_jamun.jpg",
+        "price": 4.99
+      },
+      {
+        "dish_name": "Mango Lassi",
+        "rating": 4.3,
+        "image": "mango_lassi.jpg",
+        "price": 3.99
+      }
+    ]
+  }
+]
